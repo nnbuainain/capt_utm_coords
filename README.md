@@ -6,7 +6,7 @@
 
 ## Why
 
-* This was custom made for a GreenPeace analyst that needed to map a conservation unit but was spending ours to manually transcript these information.
+* This was custom made for a GreenPeace analyst that needed to map a conservation unit but was spending hours of work to manually transcript these information.
 
 ## How it works:
 
