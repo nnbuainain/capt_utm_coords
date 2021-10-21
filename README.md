@@ -17,5 +17,5 @@
   <img src="https://github.com/nnbuainain/capt_utm_coords/blob/main/figs/print_document.png?raw=true" width="400" />
 to ->>
   <img src="https://github.com/nnbuainain/capt_utm_coords/blob/main/figs/polygon_UC.jpeg?raw=true" width="200" /> 
-->>  in minutes
+-> in minutes
 </p>
