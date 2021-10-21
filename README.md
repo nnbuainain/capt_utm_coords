@@ -13,9 +13,9 @@
 * Captures string occurrence everytime it finds a matching pattern for E: 356.344,839 or N: 8.923.122,327 or similar.
 
 
-<p float="left"> From pages of this ->>
-  <img src="https://github.com/nnbuainain/capt_utm_coords/blob/main/figs/print_document.png?raw=true" width="400" />
+<p float="left"> From pages of this ->
+  <img src="https://github.com/nnbuainain/capt_utm_coords/blob/main/figs/print_document.png?raw=true" width="390" />
 to ->>
-  <img src="https://github.com/nnbuainain/capt_utm_coords/blob/main/figs/polygon_UC.jpeg?raw=true" width="200" /> 
+  <img src="https://github.com/nnbuainain/capt_utm_coords/blob/main/figs/polygon_UC.jpeg?raw=true" width="190" /> 
 -> in minutes
 </p>
